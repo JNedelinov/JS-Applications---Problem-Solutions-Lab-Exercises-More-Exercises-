@@ -1,0 +1,15 @@
+{
+  "name": "rgbtohex",
+  "version": "1.0.0",
+  "description": "3rd Exercise: RGB to HEX",
+  "main": "rgbToHex.js",
+  "scripts": {
+    "test": "mocha || exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
