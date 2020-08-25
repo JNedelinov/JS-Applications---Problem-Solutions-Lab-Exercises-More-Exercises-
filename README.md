@@ -1,6 +1,6 @@
 These are all of my solutions from the 1st to the 8th Lecture from the JavaScript Applications course at SoftUni.
 
-#THIS IS PART 1
+# THIS IS PART 1
 
 What's included in the 1st Part: 
   1. Unit Testing and Modules;
